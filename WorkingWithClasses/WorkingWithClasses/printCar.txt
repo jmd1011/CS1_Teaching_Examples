@@ -1,0 +1,4 @@
+void Car::printCar()
+{
+	cout << left << endl << setw(13) << getMake() << setw(13) << getModel() << setw(13) << getWheels() << setw(13) << getTopSpeed();
+}
