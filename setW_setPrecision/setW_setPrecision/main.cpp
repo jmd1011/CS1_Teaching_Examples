@@ -1,9 +1,3 @@
-//
-//  Michael Gallagher
-//  A00883333
-//
-//
-
 #include <iostream>
 #include <iomanip>
 #include <string>
